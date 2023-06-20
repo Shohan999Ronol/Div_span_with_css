@@ -1,5 +1,6 @@
 .syllabus {
-    margin: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
     margin-top: 60px;
     font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -8,7 +9,7 @@
 .topic {
     margin: 5%;
     text-align: center;
-    font-size: large;
+    font-size: 24px;
 }
 
 .blocks {
@@ -58,4 +59,14 @@ li {
     padding: 5px;
     background-color: rgb(255, 171, 170);
     border-radius: 5px;
+}
+
+footer {
+    color: blueviolet;
+    font-size: 16px;
+    font-style: italic, bold;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    text-align: right;
 }
